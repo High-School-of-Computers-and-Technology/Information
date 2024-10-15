@@ -2,11 +2,11 @@ Here’s your lesson plan formatted with the template provided:
 
 ---
 
-**Teacher:** Julian Ocansey-Angba
+**Teacher:** Jonathan Cruz
 
 **Date:** November 20th, 2023
 
-**Course:** Computer Science: Introduction to Computational Media
+**Course:** Computer Science: Web Design
 
 **Topic:** Conditionals and If Statements
 
