@@ -38,7 +38,7 @@ Data from the previous lesson on conditional statements shows about 60% of stude
 
 ### **Materials/Resources/Technology**  
 - Google Classroom  
-- Repl.it/P5 Editor  
+- ProgramWiz(Editor) 
 - Pens/Pencils  
 - Rulers  
 - Worksheet (printed or digital)  
