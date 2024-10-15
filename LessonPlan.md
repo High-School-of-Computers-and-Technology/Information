@@ -1,4 +1,3 @@
-Here’s your lesson plan formatted with the template provided:
 
 ---
 
@@ -118,6 +117,4 @@ I will incorporate examples and scenarios that reflect the students' cultural ba
   …………………………………………………………………………………………………
 
 ---
-
-Let me know if you need any adjustments!
 
