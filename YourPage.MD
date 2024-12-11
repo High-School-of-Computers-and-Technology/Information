@@ -44,7 +44,7 @@ Include the following html elements in your code...
 
 #### Exemplar
 
-Take a look at this [Jonathan Cruz's page](https://codepen.io/jamilton08/pen/KwPMBaL) before you start to get an idea of what your fan page might look like.
+Take a look at this [Jonathan Cruz's page](https://codepen.io/jamilton08/pen/KwPMBaL) before you start to get an idea of what your  page might look like.
 
 ---
 
