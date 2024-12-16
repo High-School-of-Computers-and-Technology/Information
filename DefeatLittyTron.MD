@@ -1,4 +1,4 @@
-###Defeating LittyTron
+### Defeating LittyTron
 
 Today, we're exploring an important programming concept related to errors, specifically logic errors. To illustrate this, let’s consider an AI named LittyTron. We want LittyTron to be somewhat beatable, but with a catch: we also want to make it challenging enough for fifth graders to win, as long as they think strategically.
 
