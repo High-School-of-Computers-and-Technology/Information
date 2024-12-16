@@ -15,8 +15,8 @@ Let's start by forking the LittyTron webapp [LittyTron webapp ](https://codepen.
 you may work in groups and use many resources available to figure out LittyTron. Think back to data structures and google code that you don't understand.
 
 ***Answer Questions Below***
-*What ranges of lines define which move LittyTron is making ?
-*What logic is LittyTron using to make his moves ?
-*Did you play LittyTron, if you did did you discover anything during your battles ? 
+* What ranges of lines define which move LittyTron is making ?
+* What logic is LittyTron using to make his moves ?
+* Did you play LittyTron, if you did did you discover anything during your battles ? 
 
 
