@@ -7,6 +7,7 @@ Now, imagine we’re building a Tic Tac Toe app for those fifth graders. Ideally
 We will engage in some code exploration which will expand our code reading ability to understand the incorrect logic. Once we've obtained an adequate logic understanding, we will modify it in a way that LittyTron can indeed be playable with fifth graders.
 
 Let's start by forking the LittyTron webapp [LittyTron webapp ](https://codepen.io/jamilton08/pen/dPbNPXz). Try to defeat him.
+
 ---
 
 ###Assigned Task
