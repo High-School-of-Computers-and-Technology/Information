@@ -4,6 +4,8 @@ Today, we're exploring an important programming concept related to errors, speci
 
 Now, imagine we’re building a Tic Tac Toe app for those fifth graders. Ideally, they'd have a chance to beat LittyTron, but because we mistakenly assume LittyTron should be unbeatable, we inadvertently make the game frustrating and discourage the players from continuing. This unintended outcome, where our code doesn't behave as expected due to incorrect assumptions, is an example of a logic error.
 
+We will engage in some code exploration which will expand our code reading ability to understand the incorrect logic. Once we've obtained an adequate logic understanding, we will modify it in a way that LittyTron can indeed be playable with fifth graders.
+
 Let's start by forking the Starter Code | codepen ). You'll notice it looks pretty boring so far - so let's make our first div!
 
 <body>
