@@ -10,7 +10,7 @@ Let's start by forking the LittyTron webapp [LittyTron webapp ](https://codepen.
 
 ---
 
-###Assigned Task
+### Assigned Task
 *** Directions ***
 you may work in groups and use many resources available to figure out LittyTron. Think back to data structures and google code that you don't understand.
 
