@@ -18,5 +18,8 @@ you may work in groups and use many resources available to figure out LittyTron.
 * What ranges of lines define which move LittyTron is making ?
 * What logic is LittyTron using to make his moves ?
 * Did you play LittyTron, if you did did you discover anything during your battles ? 
+* How is "Game Over" determined?
+* Take two functions from the script and describe them briefly and what they do ?
+* Was there another way that I could use the "winCombo" constant to determine victory (another structure) ? 
 
 
