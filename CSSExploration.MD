@@ -17,11 +17,11 @@ Before we get into using CSS in our own work, let's take a look at it in the wil
 
 This will open up the Developer Tools (fondly referred to as 'dev tools') on the right side bar of the page, though they can be dragged around to different locations. At the top, they'll see the HTML for the page. Below, they'll see the CSS that applies to the element they select. In this case, they selected a div that contains many other elements and classes, so they will see CSS for those as well!
 
-<figure><img src="../.gitbook/assets/Screen Shot 2023-03-01 at 12.07.51 PM.png" alt=""><figcaption><p>Sample screenshot of elements in dev tools showing HTML with CSS beneath</p></figcaption></figure>
+<figure><img src="https://github.com/nycdoe-cs4all/interactive-web/blob/main/.gitbook/assets/Screen%20Shot%202023-03-01%20at%2012.07.51%20PM.png?raw=true" alt=""><figcaption><p>Sample screenshot of elements in dev tools showing HTML with CSS beneath</p></figcaption></figure>
 
 If we scroll through the CSS, we will see familiar HTML tags (body, head, etc) as well as things with a dot in front - those are our _classes_ that we spoke about in the last lesson and that we will speak more about later in this lesson. We can also see the basic structure of CSS:
 
-<figure><img src="../.gitbook/assets/Screen Shot 2023-03-01 at 12.55.33 PM.png" alt=""><figcaption><p>CSS syntax showcasing selector, property, value, and declaration</p></figcaption></figure>
+<figure><img src="https://github.com/nycdoe-cs4all/interactive-web/blob/main/.gitbook/assets/Screen%20Shot%202023-03-01%20at%2012.55.33%20PM.png?raw=true" alt=""><figcaption><p>CSS syntax showcasing selector, property, value, and declaration</p></figcaption></figure>
 
 Our CSS starts with a selector which is how we identify the part of our HTML that we will be styling. We then select a property, followed by a colon, and a value followed by a semi-colon. This `property:value;` pair creates a declaration, and each selector can have as many declarations as you'd like.
 
@@ -173,7 +173,7 @@ This will change how the browser sees the image and will automatically 'balance'
 
 **NB:** _If you feel like your students may benefit from extra practice using CSS selectors, you could utilize the_ [_CSS Selector Diner Extra Learning Resource_](https://flukeout.github.io/)_. This is a 15 - 30 minute activity (but can really be start/stopped as you see fit) that explores other ways CSS selectors can be used in a fun way._
 
-### Using Different Fonts (10 - 12 minutes)
+### Using Different Fonts
 
 One last thing to show you before you go off to make the Ugliest Webpage in the World: getting different fonts. Fonts can be tricky because they are not the same on all computing systems/browsers, although it has become _much_ more standardized over the years.
 
@@ -183,11 +183,11 @@ To begin, let's head to [Google Fonts](https://fonts.google.com/). On Google Fon
 
 When we click a font name, if we scroll down we should see the option to 'add' it to the fonts we want to use. (We also have the option to see it used with different sample text and at different sizes)
 
-<figure><img src="../.gitbook/assets/Screen Shot 2023-03-02 at 11.13.07 AM.png" alt=""><figcaption><p>Sample font with button to select</p></figcaption></figure>
+<figure><img src="https://github.com/nycdoe-cs4all/interactive-web/blob/main/.gitbook/assets/Screen%20Shot%202023-03-02%20at%2011.13.07%20AM.png?raw=true" alt=""><figcaption><p>Sample font with button to select</p></figcaption></figure>
 
 Once we've selected fonts we want to use, we can use the top right corner icon with three squares and a plus to view our selected font families. This will show us code that we can use in our HTML page to link the fonts to our page, as well as how to use this in our CSS.
 
-<figure><img src="../.gitbook/assets/Screen Shot 2023-03-02 at 11.14.32 AM.png" alt=""><figcaption><p>Icon with three squares and a plus used to view selected families of fonts</p></figcaption></figure>
+<figure><img src="https://github.com/nycdoe-cs4all/interactive-web/blob/main/.gitbook/assets/Screen%20Shot%202023-03-02%20at%2011.14.32%20AM.png?raw=true" alt=""><figcaption><p>Icon with three squares and a plus used to view selected families of fonts</p></figcaption></figure>
 
 Let's take all of the HTML `<link rel...>` tags and paste them in the `<head>` of our HTML around where we linked our CSS. We can even denote what these are with a comment!
 
