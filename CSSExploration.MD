@@ -39,8 +39,7 @@ We can adjust the `background-color` to a different color. It is currently using
 At this point, if you would like to use the [View and Change CSS](https://developer.chrome.com/docs/devtools/css/) Extra Learning Resource please feel free, but it is considered optional!
 
 ### Styling Your Page 
-
-Share the **Ugliest Website Starter Code (**[**repl.it**](https://replit.com/@qrtnycs4all/Interactive-Web-U1LA21-Styling-with-CSS-Starter-Code#index.html) **|** [**github**](https://github.com/nycdoe-cs4all/interactive-web/tree/main/unit-1-html-and-css-good-vs-bad-design/U1LA2.1/Starter%20Code)**)** with students. Explain that we want to feel free to try anything as we make our CSS pages and they should not feel concerned about making something beautiful or cohesive right off the bat - in fact, their goal is to make this website quite ugly.
+Here is the  **Ugliest Website Starter Code ** [**Codepen**](https://github.com/nycdoe-cs4all/interactive-web/tree/main/unit-1-html-and-css-good-vs-bad-design/U1LA2.1/Starter%20Code)**)** with students. Explain that we want to feel free to try anything as we make our CSS pages and they should not feel concerned about making something beautiful or cohesive right off the bat - in fact, their goal is to make this website quite ugly.
 
 Before they begin, they will need a CSS file. To do this, they can click the 'New File' button the repl.it sidebar and make a file titled `style.css`. While CSS files can have _any_ name (as long as they end in `.css`), `style.css` is a typical name for their stylesheet. Once we have the sheet made, we need to link it in our HTML page. So let's go to our `index.html` and then find our `<head>` tag. Inside that tag on approximately line 9, we will add the following:
 
@@ -148,9 +147,6 @@ One thing we can try is to add some padding to our div so it takes up more space
 }
 ```
 
-Take a few moments to experiment with margins and borders and see if you can get the page title to look like a banner!
-
-Once you've had a chance to play, there is one more relevant thing we can take away from this: we learned how to center text, but what about images? We can use a class to help us!
 
 If we want to center our image from line 24, we could add a class called 'center':
 
