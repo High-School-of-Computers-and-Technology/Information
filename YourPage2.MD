@@ -2,7 +2,7 @@
 description: How can I add specific styles such as color, spacing, and font to my web page?
 ---
 
-# 🗃 U1LA2 Lab: My Fan Page Part 2
+# 🗃  Web Design Lab: My Fan Page Part 2
 
 
 #### Directions:
