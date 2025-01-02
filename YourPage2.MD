@@ -69,11 +69,11 @@ Your task is to add styling to this website. You will access elements of the pag
         margin: auto;
     }
     ```
-7. Awesome! This last part is up to you. Use this [color palette picker](https://coolors.co/palettes/trending) to pick a palette and customize this website's colors ina different way. Make sure you change all the colors so that they are from the same palette.
+7. Litty! This last part is up to you. Use this [color palette picker](https://coolors.co/palettes/trending) to pick a palette and customize this website's colors ina different way. Make sure you change all the colors so that they are from the same palette.
 
 ### Exemplar
 
-Take a look at this  [finished example](U1LAB2/U1LAB2-Exemplar/index.html) before you start to get an idea of what your fan page might look like.
+Take a look at this finished example of  [My Page](https://codepen.io/jamilton08/pen/qEWVWQN) before you start to get an idea of what your your page might look like after CSS implementation .
 
 
 
