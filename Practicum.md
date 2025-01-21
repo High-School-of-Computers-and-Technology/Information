@@ -1,15 +1,17 @@
 ---
-description: How can I add style to my HTML page using cascading style sheets?
+description: How fast can I build my own calculator?
 ---
 
-# U1LA2.1: Styling your page with CSS
+# Build A Calculator
 
 
-### Introducing: CSS 
+### Introduction
 
-Remember in the last lesson we said we had done things behind the scenes to make our divs appear with color? That behind-the-scenes magic was CSS, or **C**ascading **S**tyle **S**heets. This is a sheet-style language that allows us to format the appearance of our HTML pages!
+Through our computer science course we have discussed how much more efficient a machine is at processing things faster than us humans so today we are to put this to the test. One might think that this is a simple task however, the most difficult part comes with the translation of human logic to machine logic. We will explore this today but luckily we will have pre structured templates and resources to guide us along the way
 
-There are several ways to work with CSS: in-line, when it is added directly to HTML tags, internal, where you type the CSS inside a `<style>` tag in your page's `<head>`, or external, where the CSS lives in a separate, linked file. For the purpose of this class, we will focus on external style sheets as they are also a common professional practice.
+### Task
+
+We will take a template that looks like the screenshot below
 
 Before we get into using CSS in our own work, let's take a look at it in the wild. We are going to use this [W3 Schools CSS Demo Page](https://www.w3schools.com/w3css/tryw3css\_templates\_start\_page.htm) - share the link with students. Once they have it open in Google Chrome (that's important!), ask them to right-click anywhere on the top red area and scroll down to 'Inspect.'
 
